@@ -1,0 +1,9 @@
+{
+    "name": "robin/finalproject",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
